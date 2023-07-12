@@ -13,7 +13,7 @@
     <li> please interact if we have any interests in common i lauv meeting ppl even if i struggle with convos </li>
 
   </ul>
-  <img src="https://shishka.neocities.org/shishka/img/videogames/79.gif" align="right"> <div align="right"> <br>
+  <img src="https://shishka.neocities.org/shishka/img/videogames/79.gif" align="right"> <div align="right">
     <p> pfp: @k_reizi (twt) - - -  no concrete <b>dni</b> just dont be a <em>freak</em> or a <em>weirdo.</em> i block and hide freely. bye!ㅤㅤㅤ </p><p>my status icons on pt dont mean anything bc chances are i toggled it by accident n never changed it </p>
   </div>
 </body>
