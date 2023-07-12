@@ -1,7 +1,7 @@
 <html> 
   <body>
 <h1>hi ponytown goer! </h1>
- <div align="center">  <a href="https://megamitensei.fandom.com/wiki/Raidou_Kuzunoha_XIV" target="_blank"><img src="https://64.media.tumblr.com/8724be6bad564b50c18cea15dc0fc187/tumblr_n1xhlf8rAo1ttjo3ko1_r1_250.gifv" align="left" alt="I LOVE RAIDOU!"></a> <a href="https://rentry.co/runoinchrests" target="_blank">interests</a> + <a href="https://rentry.co/shinjiru" target="_blank">rentry</a> + <a href="https://shinminase.123guestbook.com/" target="_blank"> leave me a note </a> </div>
+ <div align="center">  <a href="https://rentry.co/serphs" target="_blank"><img src="https://64.media.tumblr.com/8724be6bad564b50c18cea15dc0fc187/tumblr_n1xhlf8rAo1ttjo3ko1_r1_250.gifv" align="left" alt="I LOVE RAIDOU!"></a> <a href="https://rentry.co/runoinchrests" target="_blank">interests</a> + <a href="https://rentry.co/shinjiru" target="_blank">rentry</a> + <a href="https://shinminase.123guestbook.com/" target="_blank"> leave me a note </a> </div>
   <hr size="1" color="purple">
   <ul>
   <li> im usually offtab but feel free to int regardless! status means nothing. i accidentally toggle them </li>
