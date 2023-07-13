@@ -23,7 +23,9 @@
   </div>
 
 
-https://github.com/shinminase/shinminase/assets/139236438/28e62dd0-1e4b-4f39-a733-d7a7fab5ae98
+
+https://github.com/shinminase/shinminase/assets/139236438/68b0f989-8583-4b96-8010-cf374f4cf030
+
 
 
 </body>
