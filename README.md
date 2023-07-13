@@ -15,21 +15,16 @@
   </ul>
   <img src="https://shishka.neocities.org/shishka/img/videogames/79.gif" align="right"> <div align="right">
     <br>
-    <p> pfp: @k_reizi (twt) - - -  no concrete <b>dni</b> just dont be a <em>freak</em> or a <em>weirdo.</em> i block and hide freely. bye!ㅤㅤㅤ </p></p>
+    <p> pfp: @k_reizi (twt) - - -  no concrete <b>dni</b> just dont be a <em>freak</em> or a <em>weirdo.</em> i block and hide freely. bye!ㅤㅤㅤ </p>
+      <audio
+        controls
+        src="/media/cc0-audio/t-rex-roar.mp3">
+            <a href="/media/cc0-audio/t-rex-roar.mp3">
   </div>
+
+
+https://github.com/shinminase/shinminase/assets/139236438/28e62dd0-1e4b-4f39-a733-d7a7fab5ae98
+
+
 </body>
 </html>
-<!--
-**shinminase/shinminase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
