@@ -18,7 +18,7 @@
 <div align="center">
 
 
-https://github.com/shinminase/shinminase/assets/139236438/0210631d-0ffc-49e0-82de-9bdbb82ca76f
+https://github.com/shinminase/shinminase/assets/139236438/04dbbbb4-9c75-4b0e-adc8-69da6b7ad782
 
 
 <img src="https://shishka.neocities.org/shishka/img/buttons/279.gif"> <img src="https://shishka.neocities.org/shishka/img/buttons/280.gif"> <img src="https://shishka.neocities.org/shishka/img/buttons/281.gif">
