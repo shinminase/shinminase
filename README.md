@@ -15,16 +15,14 @@
     <p> pfp: @k_reizi (twt) - - - - -  no concrete <b><em>dni</em></b> just dont be a <b>freak</b> or a <b>weirdo.</b> i block and hide freely.ㅤㅤㅤ </p>
   </div>
 
-
 <div align="center">
 
-https://github.com/shinminase/shinminase/assets/139236438/b2f81adf-13a7-4710-8ba1-6dd8b2c729c0 
 
-
+https://github.com/shinminase/shinminase/assets/139236438/0210631d-0ffc-49e0-82de-9bdbb82ca76f
 
 
 <img src="https://shishka.neocities.org/shishka/img/buttons/279.gif"> <img src="https://shishka.neocities.org/shishka/img/buttons/280.gif"> <img src="https://shishka.neocities.org/shishka/img/buttons/281.gif">
-
 </div>
+<div align="center"> <sub> BAAAA!!! no wonder people are homophobic, this is scary AF!!! </sub> </div>
 </body>
 </html>
