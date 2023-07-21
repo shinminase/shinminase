@@ -23,6 +23,8 @@ https://github.com/shinminase/shinminase/assets/139236438/04dbbbb4-9c75-4b0e-adc
 
 <img src="https://shishka.neocities.org/shishka/img/buttons/279.gif"> <img src="https://shishka.neocities.org/shishka/img/buttons/280.gif"> <img src="https://shishka.neocities.org/shishka/img/buttons/281.gif">
 </div>
-<div align="center"> <sub> BAAAA!!! no wonder people are homophobic, this is scary AF!!! </sub> </div>
+<div align="center"> <sub> BAAAA!!! no wonder people are homophobic, this is scary AF!!! 
+<br>
+fun fact i am the worlds biggest jouhei (raidou) and heat o'brien fan. If u think u like them more than me, u dont.  </sub> </div>
 </body>
 </html>
