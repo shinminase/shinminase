@@ -25,6 +25,6 @@ https://github.com/shinminase/shinminase/assets/139236438/04dbbbb4-9c75-4b0e-adc
 </div>
 <div align="center"> <sub> BAAAA!!! no wonder people are homophobic, this is scary AF!!! 
 <br>
-fun fact i am the worlds biggest jouhei (raidou) and heat o'brien fan. If u think u like them more than me, u dont.  </sub> </div>
+PLEASE DO NOT BE AFRAID TO GO UP TO ME I DONT BITE (yes i do but thats besides the point) I LIKE MAKING FRIENDS!!!! ESP IF WE HAVE INTERESTS IN COMMON  </sub> </div>
 </body>
 </html>
