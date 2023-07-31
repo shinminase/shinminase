@@ -2,7 +2,7 @@
   <body>
 <h1>hi ponytown goer! <a href="https://www.youtube.com/watch?v=uKbRXeJ9lv4"><img src="https://cdn.discordapp.com/attachments/1125236966267564184/1128901462001471589/blackcat.png"></a> </h1>
  <div align="center">  <a href="https://rentry.co/serphs" target="_blank"><img src="https://64.media.tumblr.com/8724be6bad564b50c18cea15dc0fc187/tumblr_n1xhlf8rAo1ttjo3ko1_r1_250.gifv" align="left" alt="I LOVE RAIDOU!"></a> <a href="https://rentry.co/runoinchrests" target="_blank">interests</a> + <a href="https://rentry.co/shinjiru" target="_blank">rentry</a> + <a href="https://shinminase.123guestbook.com/" target="_blank"> leave me a note </a> + <a href="https://curiouscat.live/shinminase" target="_blank"> ask me something </a> </div>
-  <div align="center"> <img src="https://cdn.discordapp.com/attachments/997029554319278130/1135564197187567636/purple.gif" align="center" width="600"></div>
+  <div align="center"> <img src="https://cdn.discordapp.com/attachments/997029554319278130/1135564197187567636/purple.gif" align="center" width="550"></div>
   <ul>
   <li> im usually offtab but feel free to int regardless! </li>
     <li> greatly appreciate it if u whisper to interact / crown because i miss things in chat a lot.</li>
