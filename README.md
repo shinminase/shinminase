@@ -12,7 +12,7 @@
   </ul>
   <img src="https://shishka.neocities.org/shishka/img/videogames/79.gif" align="right"> <div align="right">
     <br>
-    <p> pfp: @k_reizi (twt) - - - - -  no concrete <b><em>dni</em></b> just dont be a <b>freak</b> or a <b>weirdo.</b> i block and hide freely.ㅤㅤㅤ </p>
+    <p> pfp: <a href="https://wuntrum.tumblr.com/post/645471148194381824/poster-on-the-back-of-the-will-graham-zine">@wuntrum</a> - - - - -  no concrete <b><em>dni</em></b> just dont be a <b>freak</b> or a <b>weirdo.</b> i block and hide freely.ㅤㅤㅤ </p>
   </div>
 
 <div align="center">
