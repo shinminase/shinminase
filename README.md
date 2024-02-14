@@ -26,6 +26,8 @@ https://github.com/shinminase/shinminase/assets/139236438/04dbbbb4-9c75-4b0e-adc
 </div>
 <div align="center"> <sub> BAAAA!!! no wonder people are homophobic, this is scary AF!!! 
 <br>
-PLEASE DO NOT BE AFRAID TO GO UP TO ME I DONT BITE (yes i do but thats besides the point) I LIKE MAKING FRIENDS!!!! ESP IF WE HAVE INTERESTS IN COMMON  </sub> </div>
+feel free to talk to me if we have anything in common! i don't bite (not socially at least) ... 
+<br> i can't intiate any convos to save my life tho, so first moves are appreciated !
+  <br> <a href="https://twitter.com/lllllllsssssssh/">pfp artist</a></sub> </div>
 </body>
 </html>
