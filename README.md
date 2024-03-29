@@ -1,6 +1,6 @@
 <html> 
   <body>
-<h1>hi ponytown goer! <a href="https://www.youtube.com/watch?v=uKbRXeJ9lv4"><img src="https://cdn.discordapp.com/attachments/1125236966267564184/1128901462001471589/blackcat.png"></a> </h1>
+<h1>hee-ho, ponytown goer! <img src="https://shishka.neocities.org/shishka/img/videogames/136.gif"> </h1>
  <div align="center">  <a href="https://rentry.co/serphs" target="_blank"><img src="https://64.media.tumblr.com/8724be6bad564b50c18cea15dc0fc187/tumblr_n1xhlf8rAo1ttjo3ko1_r1_250.gifv" align="left" alt="I LOVE RAIDOU!"></a> <a href="https://rentry.co/runoinchrests" target="_blank">interests</a> • <a href="https://shinminase.neocities.org/" target="_blank">neocities</a> • <a href="https://shinminase.123guestbook.com/" target="_blank"> guestbook </a> • <a href="https://curiouscat.live/shinminase" target="_blank"> curiouscat </a> • <a href="https://my.cbox.ws/shinminase" target="_blank">cbox </a>  </div> 
  <hr>
 
@@ -28,6 +28,5 @@ https://github.com/shinminase/shinminase/assets/139236438/04dbbbb4-9c75-4b0e-adc
 <br>
 feel free to talk to me if we have anything in common! i don't bite (not socially at least) ... 
 <br> i can't intiate any convos to save my life tho, so first moves are appreciated !
-  <br> <a href="https://twitter.com/lllllllsssssssh/">pfp artist</a></sub> </div>
 </body>
 </html>
