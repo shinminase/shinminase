@@ -1,8 +1,10 @@
 <html> 
   <body>
 <h1>hee-ho, ponytown goer! <img src="https://shishka.neocities.org/shishka/img/videogames/136.gif"> </h1>
- <div align="center">  <a href="https://shinminase.neocities.org/" target="_blank"><img src="https://64.media.tumblr.com/8724be6bad564b50c18cea15dc0fc187/tumblr_n1xhlf8rAo1ttjo3ko1_r1_250.gifv" align="left" alt="I LOVE RAIDOU!"></a> <a href="https://rentry.co/runoinchrests" target="_blank">interests</a> • <a href="https://shinminase.neocities.org/" target="_blank">neocities</a> • <a href="https://my.cbox.ws/shinminase" target="_blank">cbox </a>  </div> 
- <hr>
+ <div align="center">  <a href="https://shinminase.neocities.org/" target="_blank"><img src="https://64.media.tumblr.com/8724be6bad564b50c18cea15dc0fc187/tumblr_n1xhlf8rAo1ttjo3ko1_r1_250.gifv" align="left" alt="I LOVE RAIDOU!"></a> 
+   <h4>
+   <a href="https://rentry.co/runoinchrests" target="_blank">interests</a> • <a href="https://shinminase.neocities.org/" target="_blank">neocities</a> • <a href="https://my.cbox.ws/shinminase" target="_blank">cbox </a>  </div> 
+   </h4>
 
   <ul>
   <li> im usually offtab but feel free to int regardless! </li>
