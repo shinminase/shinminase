@@ -26,9 +26,7 @@ https://github.com/shinminase/shinminase/assets/139236438/04dbbbb4-9c75-4b0e-adc
 
 <img src="https://shishka.neocities.org/shishka/img/buttons/279.gif"> <img src="https://shishka.neocities.org/shishka/img/buttons/280.gif"> <img src="https://shishka.neocities.org/shishka/img/buttons/281.gif">
 </div>
-<div align="center"> <sub> BAAAA!!! no wonder people are homophobic, this is scary AF!!! 
-<br>
-feel free to talk to me if we have anything in common! i don't bite (not socially at least) ... 
-<br> i can't intiate any convos to save my life tho, so first moves are appreciated !
+<div align="center"> <sub> 
+TALK TO ME PLEEAASE IF WE HAVE ANYTHING IN COMMON i Dont Bite I am A very Nice sweet gal really... Really.. <img src="https://shinminase.neocities.org/hoard/kiss.gif"> 
 </body>
 </html>
