@@ -24,7 +24,7 @@
     <li> im usually offtab but feel free to int regardless! </li>
     <li> whisp to interact. miss things in chat a lot</li>
     <sub><sup> if i dont reply, it's probably because i didn't see it, sorry! </sup></sub>
-    <li> hater of vivziepop shit. </li>
+    <li> hater of vivziepop shit. hazbinnies suffer my wrath </li>
     <li> please interact if we have any interests in common i lauv meeting ppl! </li>
   </ul>
 </p>
