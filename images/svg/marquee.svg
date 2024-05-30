@@ -19,13 +19,13 @@
   </defs>
 
   <g class="marquee">
-    <image xlink:href="https://files.catbox.moe/d1dtum.webp" width="50" height="50" x="0" y="25" />
+    <image xlink:href="data:image/gif;base64,R0lGODlhlgAUAPEAAAAAAAD/Ibb/AAAAACH/C05FVFNDQVBFMi4wAwEAAAAh+QQEFAAAACwAAAAAlgAUAAAC/4RjgJerDZl809lI86146w5y4icF5omm6sq27gvH8kzHR43n+s73rOILCofE2u0FLCqXqsRRlnRFVw+mdeY8ZqNbI0I6bX5tXOepsUijTaVR6plmZ+Xzcx06lurZZNQd3fYU6GDmN7UGt9ZUaHMG1lIFIBC2aPhGoYZpGXhHd2lXqGgIJzX5RckHIylg+mj3OagYGxmWeNNFyMiIxNrqysuKKrc5MVsWEZcM+jl8ubsL2Sv8BhX8G1ecUTI62My8bDFKRfpj3QdF/gqKfNtelplMXhFf20kjuuf1c2i2nSeLyZ88e564AZrmB0c6JFeKQPuGBGEqhTokNrzYw+I4jCAcO17R6DGkSFUgR5o8OSwEiZUeWqp06ealzJg0WaosAAAh+QQEFAAAACwAAAAAlgAUAAAC/4xhgZerDZl809lI86146w5y4ic5yYmm6sq27gvH8kzX9o3nem7u/g8MCjPDovEESCZlPVYTSTxKncrlodrDPp3RGmKbsl6VDevyLFZ81+p19l2ujuVILLOLAo9aafv4qtZWF4jmV5Ynlia4ohXj4fUAIKAHeDiIRgiHqfUGN2emGBfKOBnJ9yIpUMpnorjJRnb4GtnkCkrHaRGLqrrqk+qr0ufWNrtbDKsbZmtZRzcHA0w5wRu8PJhJZmerzVaJiLhwvBjuqDptMw4uOrt4bKx8HZtYa0ijfnpPFd6uMZwZ6JszfOM4Ccw3hVpCHc+EoQvo4mEeHBIXWpxR8aLGjR1TMnL8CDKkyJGORng4GYKESpQmU7Jc6TJmywkFAAA7" width="100" height="100" x="0" y="25" />
     <image xlink:href="https://example.com/blinkie2.gif" width="50" height="50" x="60" y="25" />
     <image xlink:href="https://example.com/blinkie3.gif" width="50" height="50" x="120" y="25" />
     <!-- Add more images as needed -->
 
     <!-- Repeat the images for smooth looping -->
-    <image xlink:href="https://example.com/blinkie1.gif" width="50" height="50" x="180" y="25" />
+    <image xlink:href="https://files.catbox.moe/s4ypty.gif" width="50" height="50" x="180" y="25" />
     <image xlink:href="https://example.com/blinkie2.gif" width="50" height="50" x="240" y="25" />
     <image xlink:href="https://example.com/blinkie3.gif" width="50" height="50" x="300" y="25" />
     <!-- Add more images as needed -->
