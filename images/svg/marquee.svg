@@ -1,7 +1,7 @@
-<svg viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 800 70" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     .marquee {
-      animation: scroll 10s linear infinite;
+      animation: scroll 15s linear infinite;
     }
 
     @keyframes scroll {
