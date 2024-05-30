@@ -1,0 +1,33 @@
+<svg viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    .marquee {
+      animation: scroll 10s linear infinite;
+    }
+
+    @keyframes scroll {
+      0% {
+        transform: translateX(100%);
+      }
+      100% {
+        transform: translateX(-100%);
+      }
+    }
+  </style>
+
+  <defs>
+    <path id="marqueePath" d="M 0,50 H 1600" />
+  </defs>
+
+  <g class="marquee">
+    <image xlink:href="https://files.catbox.moe/d1dtum.webp" width="50" height="50" x="0" y="25" />
+    <image xlink:href="https://example.com/blinkie2.gif" width="50" height="50" x="60" y="25" />
+    <image xlink:href="https://example.com/blinkie3.gif" width="50" height="50" x="120" y="25" />
+    <!-- Add more images as needed -->
+
+    <!-- Repeat the images for smooth looping -->
+    <image xlink:href="https://example.com/blinkie1.gif" width="50" height="50" x="180" y="25" />
+    <image xlink:href="https://example.com/blinkie2.gif" width="50" height="50" x="240" y="25" />
+    <image xlink:href="https://example.com/blinkie3.gif" width="50" height="50" x="300" y="25" />
+    <!-- Add more images as needed -->
+  </g>
+</svg>
