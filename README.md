@@ -28,4 +28,4 @@
     <li> please interact if we have any interests in common i lauv meeting ppl! </li>
   </ul>
 </p>
-<img src="images/svg/marquee.svg></img>
+<img src="images/svg/marquee.svg"></img>
