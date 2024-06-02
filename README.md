@@ -28,7 +28,7 @@
     <li> please interact if we have any interests in common i lauv meeting ppl! </li>
   </ul>
 </p>
-<img src="https://github.com/shinminase/shinminase/blob/main/images/svg/blinkies.svg"></img>
+<img src="images/svg/blinkiemarquee.svg"></img>
 
 <details align="center">
   <summary><i>currently learning....</i></summary>
