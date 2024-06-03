@@ -20,7 +20,7 @@
 <p align="left">
   <ul>
     <h4 align="center">
-      <a href="https://rentry.co/runoinchrests" target="_blank">interests</a> • <a href="https://shinminase.neocities.org/" target="_blank">neocities</a> • <a href="https://shinminase.neocities.org/computer/" target="_blank">cbox </a> • <a href="https://rentry.co/raidouxiv" target="_blank">ponytown</a>
+      <a href="https://rentry.co/runoinchrests" target="_blank">interests</a> • <a href="https://shinminase.neocities.org/" target="_blank">neocities</a> • <a href="https://shinminase.neocities.org/computer/" target="_blank">cbox </a> • <a href="https://rentry.co/raidouxiv" target="_blank">ponytown</a> • <a href="https://www.ultraguest.com/view/1717388758" target="_blank">guestbook</a>
     </h4>
     <li> im usually offtab but feel free to int regardless! </li>
     <li> whisp to interact. miss things in chat a lot</li>
