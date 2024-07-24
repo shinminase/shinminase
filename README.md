@@ -1,7 +1,7 @@
 <!-- omg hiiiii ur looking at my raw code . Sorry its super messy LOL this is just how my code normally is --> 
 <img src="images/svg/header.svg"></img>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Blasphemy?%20Before%20what?%20God?%20A%20God%20repulsed%20by%20the%20miserable%20humanity%20He%20created%20in%20His%20own%20image?%20I%20will%20not%20be%20shackled%20by%20the%20failures%20of%20your%20God.&author=Herbert%20West,%20Re-Animator" alt="Readme Quotes" align="left">
+<img src="https://quotes-github-readme.vercel.app/api?theme=dark&type=horizontal&quote=Blasphemy?%20Before%20what?%20God?%20A%20God%20repulsed%20by%20the%20miserable%20humanity%20He%20created%20in%20His%20own%20image?%20I%20will%20not%20be%20shackled%20by%20the%20failures%20of%20your%20God.&author=Herbert%20West,%20Re-Animator" alt="Readme Quotes" align="left">
 
 <p align="right">
   howdy, visitor number: <br><br>
