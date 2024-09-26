@@ -9,7 +9,7 @@
     <img src="https://profile-counter.glitch.me/{shinminase}/count.svg">
   </a>
   <br><sub>fancy seeing you 'round here.</sub>
-  <img src="https://33.media.tumblr.com/54be933300b8279a986cea6336e5afc5/tumblr_nqx4d7vWnF1rp0vkjo1_500.gif" width="50%" align="right" style="margin: 20px;">
+  <img src="https://github.com/shinminase/shinminase/blob/main/images/tumblr_nqx4d7vWnF1rp0vkjo1_500.gif?raw=true" width="50%" align="right" style="margin: 20px;">
   <br>
   <br>
   <br>
