@@ -26,9 +26,10 @@
 
 
  <p align="center"> 
- <a href="https://shinminase.neocities.org/">neocities</a>, 
- <a href="https://www.ultraguest.com/view/1717388758">guestbook</a>, 
- <a href="https://rentry.co/raidouxiv">ponytown</a> 
+ <a href="https://shinminase.neocities.org/">neocities</a> • 
+ <a href="https://www.ultraguest.com/view/1717388758">guestbook</a> • 
+ <a href="https://rentry.co/raidouxiv">ponytown</a> •
+  <a href="https://shinminase.github.io/">page</a> 
  </p>
 
 </summary>
