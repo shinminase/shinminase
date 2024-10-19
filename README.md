@@ -4,7 +4,7 @@
 <img src="https://github.com/serphentized/serphentized/blob/main/images/hugh%20dancy.gif" width="50%" height="50%" align="right">
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=CABIN+SKETCH&pause=1000&color=F70000&repeat=false&width=235&lines=TAKE+RESPONSIBILITY.">
+<a href="https://shinminase.neocities.org/"><img src="https://readme-typing-svg.herokuapp.com?font=CABIN+SKETCH&pause=1000&color=F70000&repeat=false&width=235&lines=TAKE+RESPONSIBILITY."></a>
 
 
 
