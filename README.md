@@ -29,8 +29,9 @@
  <a href="https://www.ultraguest.com/view/1717388758">guestbook</a> • 
  <a href="https://rentry.co/raidouxiv">ponytown</a> •
   <a href="https://shinminase.github.io/">page</a> 
+  <br>
+  <blockquote> i like fire trucks and monster trucks i like to play and draw </blockquote>
  </p>
-
 </summary>
 
 
