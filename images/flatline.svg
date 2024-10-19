@@ -55,7 +55,7 @@
       attributeName="opacity" 
       from="0" 
       to="1" 
-      dur="2s" 
+      dur="3s" 
       begin="0.5s" 
       fill="freeze"
     />
