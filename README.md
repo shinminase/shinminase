@@ -16,7 +16,6 @@
 <p align="right"> <img src="https://files.catbox.moe/ytsx5o.png" width="50" height="50" align="right"> <kbd align="right"><br>what<br>&nbsp;  </kbd></p>
 
 
-<p align="left"> <img src="https://files.catbox.moe/9csauy.png" width="50" height="50" align="left"> <kbd><br> keep yourself safe ^_^ <br>&nbsp;  </kbd> </p>
 
 <details>
 
