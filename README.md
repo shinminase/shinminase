@@ -36,9 +36,9 @@
  <!-- add extra information here --> 
 <li>offtab 99% of the time, whisp to int</li>
 <li>i like sitting still and looking pretty. be my friend and c+h</li>
-<li>if u miss the old layout this is temporary</li>
+<li>temporary layout for halloween</li>
 </details>
  <!-- replace username and color and label --> 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=shinminase&color=9e0000&style=for-the-badge&label=MAIMED:"></p>
 <hr>
-<p align="center"> happy halloween </p>
+
