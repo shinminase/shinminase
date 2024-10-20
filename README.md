@@ -20,7 +20,7 @@
 <details>
 
  <summary> ${\textsf{\color{#9e0000}—————————————————————————}}$ 
- <br> ${\textsf{\color{#9e0000}click for more info}}$ 
+ <br> ${\textsf{\color{#F70000}click for more info}}$ 
  <br>
 
 
