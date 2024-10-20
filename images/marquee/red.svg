@@ -6,10 +6,10 @@
       }
       @keyframes scroll {
         0% {
-          transform: translateX(100%);
+          transform: translateX(-825%);
         }
         100% {
-          transform: translateX(-825%);
+          transform: translateX(100%;);
         }
       }
     </style>
