@@ -67,7 +67,7 @@
   <!-- Text Inside -->
   <text class="text" font-size="5" fill="white">
     <textPath xlink:href="#typingPath" startOffset="-100%">
-      <animate attributeName="startOffset" from="-100%" to="0%" dur="4s" fill="freeze" />
+      <animate attributeName="startOffset" from="-100%" to="0%" dur="2.8s" fill="freeze" />
       REDACTED
     </textPath>
   </text>
