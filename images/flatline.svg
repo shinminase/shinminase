@@ -43,7 +43,7 @@
       attributeName="stroke-dasharray"
       from="0,200"
       to="200,0"
-      dur="1.8s"
+      dur="3.5s"
       repeatCount="1"
       fill="freeze"
     />
