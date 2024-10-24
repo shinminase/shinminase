@@ -52,7 +52,7 @@
 
 <details align="center">
 <summary><i>currently learning...</i></summary>
-
+<br>
 <table>
   <thead>
     <tr>
