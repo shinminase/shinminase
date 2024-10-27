@@ -74,6 +74,7 @@
   </tbody>
 </table>
 
+<sub> i am a beginner :] </sub>
 
 </details>
 
