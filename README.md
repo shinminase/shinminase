@@ -79,8 +79,8 @@ I see you're looking into my profile! I hope you find whatever you need, friend.
 
 
 
-
-<details align="center">
+<div align="center">
+<details>
 <summary><i>currently learning...</i></summary>
 <br>
 <table>
@@ -107,4 +107,4 @@ I see you're looking into my profile! I hope you find whatever you need, friend.
 <sub> i am a beginner :] </sub>
 
 </details>
-
+</div>
