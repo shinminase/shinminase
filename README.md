@@ -67,7 +67,7 @@ I see you're looking into my profile! I hope you find whatever you need, friend.
 
 <li>offtab 99% of the time, whisp to int</li>
 <li>i like sitting still and looking pretty. be my friend and c+h</li>
-<li>temporary layout for halloween. old layout <a href="https://github.com/serphentized">here</a></li>
+<li>learning web/game dev, artist & occasional ponytowner </li>
 </details>
 
  
