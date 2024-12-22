@@ -104,7 +104,7 @@ I see you're looking into my profile! I hope you find whatever you need, friend.
   </tbody>
 </table>
 
-<sub> i am a beginner :] </sub>
+<sub> i am a beginner :] i focus on front-end webdev and gamedev</sub>
 
 </details>
 </div>
