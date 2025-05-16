@@ -103,7 +103,7 @@ I see you're looking into my profile! I hope you find whatever you need, friend.
   </tbody>
 </table>
 
-<sub> i am a beginner :] i focus on front-end webdev and gamedev</sub>
+<sub> i am a beginner :] i focus on front-end webdev and gamedev. My dearest Professor if u see this ummm sorry. </3</sub>
 
 </details>
 </div>
