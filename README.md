@@ -31,7 +31,7 @@ I see you're looking into my profile! I hope you find whatever you need, friend.
 <img src="images/flatline.svg">
 
 <hr>
-<img src="https://github.com/serphentized/serphentized/blob/main/images/hugh%20dancy.gif" align="right" alt="if you see this its not loaded properly">
+<img src="https://github.com/serphentized/serphentized/blob/main/images/hugh%20dancy.gif" width="500px" height="600px" align="right" alt="if you see this its not loaded properly">
 
 
 <a href="https://shinminase.neocities.org/"><img src="https://readme-typing-svg.herokuapp.com?font=CABIN+SKETCH&pause=1000&color=F70000&repeat=false&width=235&lines=TAKE+RESPONSIBILITY."></a>
