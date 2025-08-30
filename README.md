@@ -58,7 +58,7 @@ I see you're looking into my profile! I hope you find whatever you need, friend.
  <a href="https://shinminase.neocities.org/">neocities</a> • 
  <a href="https://www.ultraguest.com/view/1717388758">guestbook</a> •
   <a href="https://toyhou.se/rykuzu/characters/folder:6714012">my ocs</a> •
-<a href="https://sibilya.straw.page/">strawpage/oekaki</a>
+<a href="https://sibilya.straw.page/">strawpage</a>
   <br>
   <blockquote> i like fire trucks and monster trucks i like to play and draw </blockquote>
  </p>
