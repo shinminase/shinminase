@@ -27,3 +27,5 @@
 </details>
 <img src="https://i.imgur.com/XNYmaXz.png" width="200px">
 </div> 
+
+<a href="https://github.com/shinminase/marquee"><img src="images/silly.svg"></a>
