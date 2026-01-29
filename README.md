@@ -1,4 +1,5 @@
-<div align="center"> <img src="https://i.imgur.com/pDw6igG.png" width="240" align="left"><img src="https://i.imgur.com/M5f2lJq.png" width="240" align="right"> <b> redacted • he/him • IT student • 19  </b> 
+<div align="center"> <img src="https://i.imgur.com/Ktkqpuu.jpeg"><br>
+<b> redacted • he/him • IT student • 19  </b> 
 
  <details>
 
@@ -13,17 +14,24 @@
   <a href="https://toyhou.se/rykuzu/characters/folder:6714012">my ocs</a> •
   <a href="https://shinminase.neocities.org/drawbox">drawbox</a>
   <br>
-  <blockquote>kissing my homies goodnight</blockquote>
  </p>
 </summary>
 
-<div align="left">
-<li>offtab 99% of the time, whisp to int</li>
-<li>i like sitting still and looking pretty. be my friend and c+h</li>
-<li>learning web/game dev, artist & occasional ponytowner </li>
-<li>i love my ocs, abi and monty. theyre my layout.</li>
+<div align="center">
+<table width="450px">
+<tr>
+<td>
+
+• offtab 99% of the time, whisp to int <br>
+• i like sitting still and looking pretty. be my friend and c+h <br>
+• learning web/game dev, artist & occasional ponytowner <br>
+• i love my ocs, abi and monty. theyre my layout.<br>
+• layout is commissioned art by <a href="https://x.com/altarsofecstasy">computertickler99</a>
+
+</td>
+</tr>
+</table>
 </div>
 
 </details>
-<img src="https://i.imgur.com/gGlh3AN.png" width="230px">
-</div> 
+</div>
