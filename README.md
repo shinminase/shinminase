@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://i.imgur.com/Ktkqpuu.jpeg"><br>
+<div align="center"> <img src="https://i.imgur.com/Ktkqpuu.jpeg" width="50%"><br>
 <b> redacted • he/him • IT student • 19  </b> 
 
  <details>
