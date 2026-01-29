@@ -13,7 +13,7 @@
   <a href="https://toyhou.se/rykuzu/characters/folder:6714012">my ocs</a> •
   <a href="https://shinminase.neocities.org/drawbox">drawbox</a>
   <br>
-  <blockquote> i like fire trucks and monster trucks i like to play and draw </blockquote>
+  <blockquote>kissing my homies goodnight</blockquote>
  </p>
 </summary>
 
