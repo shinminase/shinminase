@@ -25,5 +25,5 @@
 </div>
 
 </details>
-<img src="https://i.imgur.com/XNYmaXz.png" width="200px">
+<img src="https://i.imgur.com/gGlh3AN.png" width="230px">
 </div> 
