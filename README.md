@@ -34,6 +34,4 @@
 </div>
 
 </details>
-
-<img src="https://i.imgur.com/1Ycx0lV.png" width="35%">
 </div>
