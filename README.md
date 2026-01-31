@@ -35,5 +35,5 @@
 
 </details>
 
-<img src="https://i.imgur.com/1Ycx0lV.png" width="50%">
+<img src="https://i.imgur.com/1Ycx0lV.png" width="35%">
 </div>
