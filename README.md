@@ -26,7 +26,7 @@
 • i like sitting still and looking pretty. be my friend and c+h <br>
 • learning web/game dev, artist & occasional ponytowner <br>
 • i love my ocs, abi and monty. theyre my layout.<br>
-• layout is commissioned art by <a href="https://x.com/altarsofecstasy">computertickler99</a>
+• icon + focal image is commissioned art by <a href="https://x.com/altarsofecstasy">computertickler99</a>
 
 </td>
 </tr>
@@ -34,4 +34,6 @@
 </div>
 
 </details>
+
+<img src="https://i.imgur.com/1Ycx0lV.png" width="50%">
 </div>
