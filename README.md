@@ -19,8 +19,8 @@
 
 <table border="0">
   <tr>
-    <td width="30%" align="center" valign="middle" style="border: none;">
-      <img src="https://i.imgur.com/z5RzREo.png" width="100%">
+    <td width="50%" align="center" valign="middle" style="border: none;">
+      <img src="https://i.imgur.com/z5RzREo.png" width="70%">
     </td>
     <td align="left" valign="middle" style="border: none;">
       • offtab 99% of the time, whisp to int <br>
