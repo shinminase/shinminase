@@ -26,7 +26,7 @@
       • offtab 99% of the time, whisp to int <br>
       • i like sitting still and looking pretty. be my friend and c+h <br>
       • learning web/game dev, artist & occasional ponytowner <br>
-      • i love my ocs, abi and monty. theyre my layout.<br>
+      • i love my ocs, <a href="https://unvale.io/character/d34b8c50-c636-4197-ba47-aa6255f57dda">abi</a> and <a href="https://unvale.io/character/be36a2e6-79c6-4462-9daf-7c2127d6cc27">monty</a>. theyre my layout.<br>
       • icon + focal image is commissioned art by <a href="https://x.com/altarsofecstasy">computertickler99</a>
     </td>
   </tr>
