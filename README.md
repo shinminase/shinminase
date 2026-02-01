@@ -34,5 +34,5 @@
 </div>
 
 </details>
-<img src="https://i.imgur.com/MIK7L9P.gif">
+<img src="https://i.imgur.com/JQE1fnK.gif">
 </div>
