@@ -20,7 +20,8 @@
 <table border="0">
   <tr>
     <td width="50%" align="center" valign="middle" style="border: none;">
-      <img src="https://i.imgur.com/z5RzREo.png" width="70%">
+      <img src="https://i.imgur.com/z5RzREo.png" width="70%"><br>
+      art by <a href="https://ihateapples.straw.page/">kad kad</a>
     </td>
     <td align="left" valign="middle" style="border: none;">
       • offtab 99% of the time, whisp to int <br>
