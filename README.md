@@ -1,5 +1,5 @@
 <div align="center"> 
-<img src="https://i.imgur.com/Ktkqpuu.jpeg" width="70%"><br>
+<img src="https://i.imgur.com/GWqsOT4.png" width="70%"><br>
 <b> redacted • he/him • IT student • 19 </b> 
 
 <details>
