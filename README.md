@@ -1,4 +1,4 @@
-<img width="50%" height="auto" src="https://i.imgur.com/na3NkoX.gif" /><div align="center"> <img src="https://i.imgur.com/w2TJ6S4.gif"> <br>
+<img width="50%" height="auto" src="https://i.imgur.com/na3NkoX.gif" /><div align="center"> <br>
 <b> R or serph , <a href="https://characterhub.com/profile/serph">ocs</a> , <a href="https://shinminase.neocities.org/">neocities</a> , <a href="https://shinminase.neocities.org/drawbox">draw something for me!</a> </b>
 <img src="https://i.imgur.com/FsalNwF.png">
   <br>  <br>
