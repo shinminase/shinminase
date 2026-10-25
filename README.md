@@ -1,6 +1,5 @@
-<img width="50%" height="auto" src="https://i.imgur.com/na3NkoX.gif" /><div align="center"> <br>
+<div align="center"><img width="50%" height="auto" src="https://i.imgur.com/na3NkoX.gif" /> <br>
 <b> R or serph , <a href="https://characterhub.com/profile/serph">ocs</a> , <a href="https://shinminase.neocities.org/">neocities</a> , <a href="https://shinminase.neocities.org/drawbox">draw something for me!</a> </b>
-<img src="https://i.imgur.com/FsalNwF.png">
   <br>  <br>
   <kbd>luluhod hanggang magkakalyo ang tuhod, <br> makasama siya ng iilan pang minuto</kbd><br><br>
   <details><summary><img src="https://i.imgur.com/EBfZOnb.png"> <img src="https://i.imgur.com/YMgVVW3.png"> <img src="https://i.imgur.com/rJgH9B0.png"></summary>
