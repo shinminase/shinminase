@@ -6,6 +6,6 @@
   <sub> stamp art cr: <a href="https://anjlunaru.tumblr.com">anjlunaru</a> , <a href="https://x.com/arjjnna">arjjnna</a> ,  <a href="https://www.facebook.com/rickrowl.exe.9">feb ruary</a></details> </sub>
 
   <img src="https://cdn.characterhub.com/r/1280w/users/fd9e396d-4c73-4274-90d9-a0085c7a70c7/81c718ce-91d7-496c-9056-f4d4bd4560c3_l" width="50%" height="auto">
-
-</div>
+<br></b> <a href="https://characterhub.com/character/malcolm-abioye">abi</a> & <a href="https://characterhub.com/character/charlie-montgomery">monty</a>
+🕊️🍷 </div>
 
